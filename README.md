@@ -1,6 +1,7 @@
 # ams-2020-ml-python-course
 
 Machine Learning in Python for Environmental Science Problems AMS 2020 Short Course 
+https://sites.google.com/rams.colostate.edu/ams-ml4es/home
 
 ## Authors
 * Amanda Burke, University of Oklahoma (aburke1@ou.edu)
